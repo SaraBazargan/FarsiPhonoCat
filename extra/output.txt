@@ -1,0 +1,2650 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1179
+size of tarkib types:  1179
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1179
+size of tarkib types:  1179
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1179
+size of tarkib types:  1179
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1179
+size of tarkib types:  1179
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1179
+'AbA
+'abA
+'Abe
+'Abi
+'abi
+'Abu
+'abu
+'Ace
+'AdA
+'adA
+'adA
+'Ade
+'adu
+'Ahu
+'Aki
+'AlA
+'alA
+'alA
+'Ale
+'Ali
+'Ali
+'Ali
+'ali
+'alo
+'Alu
+'AmA
+'amu
+'amu
+'AnA
+'Ane
+'Ani
+'AqA
+'AqA
+'AqA
+'ArA
+'ArA
+'ArA
+'Are
+'Ari
+'Ari
+'AsA
+'asA
+'Ase
+'Asi
+'ASi
+'Asi
+'aSu
+'atA
+'atA
+'Ati
+'Ave
+'Avi
+'Axe
+'AyA
+'Aye
+'ayi
+'azA
+'AZe
+bAbA
+bAbA
+bAbi
+bAdA
+bAde
+bAdi
+badi
+bahA
+bahA
+bAjA
+bAje
+bAji
+bAku
+bAlA
+balA
+bAle
+bale
+bAli
+bali
+bAme
+banA
+banA
+bAne
+bAni
+bani
+bAnu
+baqA
+bAqi
+bAqi
+barA
+bAre
+bAre
+bAri
+bari
+bAru
+basA
+bASe
+basi
+bASu
+bAyA
+bAze
+bAzi
+bAzu
+bede
+bedo
+bejA
+bejA
+bepA
+bere
+betA
+beze
+bibi
+bibu
+bide
+bidi
+bijA
+bime
+bimu
+binA
+bine
+bini
+bipA
+biSe
+biSi
+bisu
+bitA
+bive
+biyo
+bo'A
+bone
+boro
+budA
+bude
+bufe
+bumi
+buqi
+bure
+buri
+buse
+bute
+buyA
+buye
+CAhi
+CAle
+CAme
+CAne
+Cape
+CApi
+Capi
+CAqi
+CAqu
+CarA
+CAre
+CAyi
+Ceki
+CerA
+CerA
+Cide
+Cine
+Cini
+Cire
+CitA
+Citi
+Cizi
+Cosi
+Cosu
+Cube
+Cubi
+Cubi
+Cule
+Cuni
+Cuxe
+dAdA
+dAde
+dade
+dafe
+dahA
+dahe
+dAhi
+dA'i
+dA'i
+dA'i
+dAkA
+dale
+dAli
+damA
+dame
+dAmi
+dami
+dAnA
+dAne
+dAni
+dani
+dAqi
+dArA
+darA
+dari
+dAru
+davA
+dAye
+dAyi
+dAyi
+debi
+denA
+depo
+dero
+dero
+devo
+dibA
+dide
+dime
+dini
+dino
+diri
+divi
+diye
+dizi
+do'A
+dopA
+doru
+dube
+dude
+dudi
+duki
+dumA
+duqi
+duri
+duSA
+'ebA
+'ebA
+'efe
+'ego
+'eko
+'elA
+'eSA
+'eSA
+'esi
+'evA
+'ezA
+'ezA
+'eZe
+fadA
+fanA
+fAni
+fAqe
+farA
+fatA
+fate
+fAti
+fazA
+fifA
+figo
+fiko
+file
+fili
+fimA
+fine
+foko
+fori
+foru
+foru
+foto
+foto
+fukA
+fulu
+gaCi
+gAhi
+gahi
+gAle
+gAli
+galu
+gAmA
+gAne
+gAri
+gari
+gAro
+gAve
+gAvi
+gAzi
+gedA
+gele
+geli
+gerA
+gerA
+gere
+geto
+giji
+gine
+girA
+gire
+giSA
+giSe
+gisu
+giti
+give
+gohi
+gole
+goli
+goSA
+gote
+govA
+govA
+gove
+gu'i
+gune
+guni
+guri
+guSe
+guSi
+guyA
+guyA
+guye
+guyi
+hAdi
+hAfi
+hAgi
+hAji
+hAji
+hAki
+hAki
+hAlA
+hAle
+hAli
+hAli
+hAlu
+hame
+hame
+hAmi
+hamu
+hanA
+hAnA
+hAni
+hApu
+harA
+hari
+hAri
+hASA
+havA
+havA
+hAvi
+havu
+hayA
+hAye
+hebe
+hejA
+hemA
+hemA
+hile
+hime
+hipi
+hire
+hire
+hite
+hivA
+hizi
+hodA
+hogo
+holi
+holu
+homA
+home
+hude
+hume
+hurA
+hurA
+hurA
+huri
+huSi
+'ide
+'ifA
+'ifA
+'ili
+'imA
+'imA
+'ine
+'isA
+'izA
+'izA
+'ize
+'ize
+'izo
+jAdu
+jafA
+jAfi
+jAju
+jaki
+jalA
+jalA
+jali
+jAme
+jAmi
+jAni
+jApA
+jAri
+jari
+jAru
+jAsi
+jASu
+jAve
+jAyi
+jazA
+jibi
+jife
+jimi
+jire
+jiru
+jive
+jodA
+jodo
+juje
+juju
+juki
+juqe
+juri
+juSi
+juxe
+juyA
+kaCe
+kACi
+kAdo
+kadu
+kAfe
+kafe
+kAfi
+kafi
+kAhi
+kAhu
+kAji
+kaji
+kAkA
+kAki
+kAlA
+kAli
+kami
+kAmo
+kAnA
+kAne
+kane
+kAni
+kArA
+kAre
+kare
+kAri
+kari
+kAse
+kASe
+kAsi
+kASi
+kasi
+kAtA
+kate
+kati
+katu
+kAve
+kazA
+kaZi
+kele
+kepi
+kesA
+kesA
+keSi
+kevA
+kifi
+kilu
+kine
+kise
+kivi
+kiyA
+kiyu
+kiyu
+kiyu
+kodi
+kojA
+kolA
+kolA
+komA
+kopi
+kore
+kubA
+kube
+kuCe
+kuCi
+kufe
+kufi
+kuhe
+kuhi
+kukA
+kuki
+kuku
+kule
+kuli
+kume
+kune
+kupe
+kure
+kuri
+kuSA
+kuse
+kuSi
+kuyi
+kuze
+kuZi
+lAbe
+labe
+lAbi
+labu
+lAhe
+lA'i
+lAki
+laki
+lAlA
+lAle
+lale
+lAli
+lAmA
+lAmi
+lAne
+lApe
+laqA
+lAri
+lASe
+lase
+lASi
+late
+lAti
+lavA
+lAxe
+lAye
+lAyi
+lego
+lehA
+leqA
+leqA
+lezA
+libi
+lidA
+lidi
+life
+lifi
+lili
+limu
+linA
+liqe
+lire
+lise
+lite
+lizA
+lizi
+lorA
+lori
+loto
+luCi
+lu'i
+lule
+lulu
+luti
+luti
+mACe
+mAde
+mAfi
+magu
+mAhe
+mAhi
+mAhu
+mAku
+mAle
+mAli
+mAmA
+mame
+mAnA
+mAni
+mani
+marA
+mAri
+mAse
+mASe
+mASi
+mAyA
+mAye
+mAyo
+mAze
+maze
+mAzi
+mAzu
+medi
+meno
+meri
+mesi
+mikA
+mile
+mili
+minA
+mini
+minu
+mirA
+miri
+miSA
+miSi
+mive
+mixi
+moCi
+moho
+monA
+monA
+moZe
+mumi
+muri
+musA
+muSi
+musi
+muye
+muze
+muzi
+nAdi
+nAfe
+nAfi
+nAhi
+nAjA
+nAji
+nAle
+namA
+namA
+nAme
+nAmi
+nane
+nAni
+nanu
+nAqe
+naqi
+nari
+nAsA
+nasA
+nASi
+nasu
+nAto
+navA
+nAve
+nave
+nAvi
+naxi
+nAzA
+nAzi
+nedA
+nekA
+neku
+nemA
+nemA
+nesA
+neSA
+neyi
+niCe
+niki
+niku
+nili
+nilu
+nimA
+nime
+ninA
+nini
+niru
+niyA
+nomA
+noZe
+nure
+nuri
+'obe
+'oto
+'oto
+pACe
+pAdo
+pA'i
+pAki
+pAlA
+pAli
+pApA
+pape
+pAre
+pari
+pAru
+pASA
+paSe
+pAsi
+pasi
+pAsu
+pate
+pAti
+pati
+patu
+pAve
+pAyA
+pAye
+pAye
+pAyi
+pazA
+peli
+peru
+pezo
+piCe
+piCi
+pike
+pile
+pili
+pine
+pirA
+pirA
+piri
+pise
+piSe
+pisi
+piSi
+pizA
+pizi
+pofi
+pori
+puCi
+puke
+puki
+puli
+pumA
+pune
+pupA
+pure
+puSe
+puyA
+puye
+puze
+qabA
+qadA
+qafA
+qA'i
+qalA
+qAli
+qAli
+qame
+qami
+qanA
+qani
+qAni
+qAqA
+qara
+qAri
+qAti
+qAti
+qavi
+qAyi
+qazA
+qazA
+qazA
+qazA
+qAzi
+qAzi
+qenA
+qenA
+qeri
+qeSA
+qeSA
+qifi
+qiri
+qoli
+qomi
+qonu
+qopi
+qorA
+qorA
+qori
+qovA
+qure
+quri
+quri
+quSe
+qute
+quti
+quze
+quzi
+rAbi
+rade
+rAdi
+rage
+rAgo
+rahA
+rahA
+rAhi
+rahi
+rA'i
+rAjA
+rajA
+rajA
+rAje
+rAji
+rAli
+rame
+rAmi
+rAne
+rAni
+rAqi
+rasA
+rasA
+rasA
+rASi
+rAsu
+ravA
+rAvi
+raze
+rAzi
+rAzi
+razi
+redA
+rele
+remi
+rene
+rezA
+reZe
+reZi
+riqu
+rise
+riSe
+riSu
+riyA
+riye
+rize
+rizi
+robA
+rofu
+rosi
+roso
+rozA
+roZe
+rude
+ruhi
+rumi
+rupA
+rusi
+ruye
+ruyi
+ruze
+ruzi
+sabA
+Sabi
+sAbi
+sabu
+sAde
+sade
+SAdi
+SAdi
+sadi
+SafA
+safA
+sAfi
+safi
+sagi
+sAhA
+sahi
+SAhi
+sA'i
+sAji
+sAki
+SAki
+salA
+sAle
+sAli
+SAli
+samA
+samA
+sAmi
+SAmi
+sanA
+sane
+SAne
+sAni
+SApo
+sAqe
+sAqi
+sAqi
+Saqi
+sArA
+sarA
+sAre
+sare
+SAre
+Sare
+sAri
+sAri
+sAsi
+SASu
+SatA
+Sate
+savA
+sAve
+SAxe
+saxi
+SAxi
+sAyA
+sAye
+sAzA
+sAze
+sAzi
+sAzu
+sedA
+se'e
+sele
+SemA
+senA
+SenA
+Seni
+Seno
+Seno
+seqe
+seri
+sesu
+setA
+sezA
+Sibi
+Side
+sidi
+Si'e
+Si'i
+Siki
+Sile
+Sili
+silo
+simA
+SimA
+simi
+Simi
+sinA
+sine
+sini
+siqe
+sire
+Sire
+siri
+Siri
+Siru
+SiSe
+sisi
+sitA
+sito
+SivA
+Sive
+sixi
+siyA
+Sode
+sohA
+sole
+Sole
+solo
+solo
+SomA
+sonA
+sorA
+soru
+sude
+sufi
+SukA
+Sumi
+sure
+Sure
+suri
+Suri
+suri
+suse
+Suse
+SuSe
+SuSi
+susu
+Suxi
+suZe
+suzi
+tAbe
+tAbo
+tAhA
+tAhA
+tA'i
+tA'i
+take
+taki
+talA
+tale
+tane
+tani
+tAqe
+taqi
+tAqi
+tArA
+tare
+tAri
+tari
+tAri
+tAru
+taSi
+tAsi
+tAti
+tAtu
+tAze
+tAzi
+tetA
+timi
+tipA
+tiqe
+tire
+tiSe
+tize
+tizi
+tofu
+tohi
+toni
+tubA
+tubA
+tubA
+tude
+tukA
+tule
+tuli
+tuni
+tupi
+turi
+tuSe
+tusi
+tuSi
+tusi
+tuti
+tuti
+tuyi
+'ufi
+'ujA
+'ure
+'utu
+'utu
+'u'u
+vabA
+vAdi
+vafA
+vafA
+vAfi
+vafi
+vAhe
+vAhi
+vAji
+vAke
+vAlA
+valA
+valA
+vAle
+vAli
+vali
+vali
+vAmi
+varA
+varA
+varA
+vAre
+vAru
+vaSA
+vAse
+vasi
+vAZe
+vedA
+vedA
+veto
+vilA
+vile
+vili
+virA
+viri
+viSi
+vizA
+viZe
+voSo
+voSo
+vozu
+xadu
+xafA
+xafe
+xafi
+xAje
+xAje
+xAji
+xAju
+xAke
+xAki
+xalA
+xAle
+xAle
+xAli
+xAlu
+xAme
+xAmi
+xAnA
+xAne
+xAni
+xArA
+xAri
+xASu
+xatA
+xAti
+xAye
+xaze
+xire
+xiSi
+xisi
+xiti
+xodA
+xodi
+xore
+xoSA
+xoSi
+xoze
+xubi
+xu'i
+xuki
+xuni
+xuSe
+xuyi
+xuzi
+yAbu
+yadi
+yAfA
+yAhu
+yale
+yA'o
+yaqe
+yAqi
+yArA
+yAri
+yAru
+yAsi
+yAve
+yaxe
+yaxi
+yekA
+yeki
+yoni
+yoro
+yoyo
+yugA
+yuro
+zAde
+zade
+zAhu
+zaki
+zAki
+zaki
+ZAle
+zAli
+zAlu
+zAni
+zani
+zAnu
+zAqe
+zAqi
+zAri
+zari
+zAti
+zA'u
+zAyA
+zehi
+zeki
+Zele
+zenA
+Zeni
+zibA
+Zigo
+ZilA
+Zile
+zilu
+zine
+zirA
+zire
+ziri
+ziyA
+ziyA
+ziyA
+zodA
+zohA
+zokA
+zonA
+zudi
+zufA
+zulu
+zuri
+zuze
+size of tarkib types:  1179
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+size of tarkib types:  1178
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+size of tarkib types:  1178
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+size of tarkib types:  1178
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+leeeeeeeeeeeeeeeeeeen 0
+most common tarkib CV.CV:  []
+most common tarkib in first sylable:  []
+
+most common tarkib in second sylable:  []
+most common Cs in CV.CV:  []
+most common Vs in CV.CV:  []
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  16
+C1,C1
+C1,C2
+C1,C3
+C1,C4
+C2,C1
+C2,C2
+C2,C3
+C2,C4
+C3,C1
+C3,C2
+C3,C3
+C3,C4
+C4,C1
+C4,C2
+C4,C3
+C4,C4
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+C1V2@@V3C1V2@@V3
+C1V1@@V3C1V2@@V3
+C1V2@@V3C1V1@@V4
+C1V2@@V3C1V1@@V5
+C1V1@@V3C1V1@@V5
+C1V2@@V3C1V2@@V5
+C1V1@@V3C1V2@@V5
+C1V2@@V3C1V2@@V3
+C1V1@@V3C1V2@@V3
+C1V1@@V3C1V2@@V3
+C1V2@@V3C1V1@@V4
+C1V1@@V3C1V2@@V5
+C1V2@@V3C2V2@@V5
+C1V2@@V3C1V1@@V5
+C1V2@@V3C4V2@@V3
+C1V1@@V3C4V2@@V3
+C1V1@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V2@@V3C4V1@@V5
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V1@@V3C4V2@@V4
+C1V2@@V3C4V2@@V5
+C1V2@@V3C4V2@@V3
+C1V1@@V3C4V2@@V5
+C1V1@@V3C4V2@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V2@@V3
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V2@@V3C4V1@@V5
+C1V2@@V3C2V2@@V3
+C1V1@@V3C2V2@@V3
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V1@@V5
+C1V1@@V3C2V2@@V5
+C1V1@@V3C1V2@@V3
+C1V1@@V3C1V2@@V3
+C1V2@@V3C1V1@@V5
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V1@@V4
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V1@@V3C4V1@@V5
+C1V1@@V3C2V2@@V3
+C1V2@@V3C2V1@@V4
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V1@@V5
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V1@@V4
+C1V2@@V3C1V1@@V5
+C1V1@@V3C1V1@@V5
+C1V1@@V3C2V2@@V3
+C1V1@@V3C2V2@@V3
+C1V2@@V3C3V2@@V3
+C1V2@@V3C3V1@@V4
+C1V2@@V3C3V1@@V5
+C1V2@@V3C1V2@@V5
+C1V2@@V3C4V2@@V3
+C1V1@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V1@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V1@@V4
+C1V1@@V3C4V2@@V3
+C1V1@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V5
+C1V1@@V3C1V2@@V3
+C1V2@@V3C1V1@@V5
+C1V2@@V3C1V1@@V5
+C1V1@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V5
+C1V1@@V3C2V2@@V3
+C1V2@@V3C2V1@@V4
+C1V1@@V3C2V1@@V5
+C1V2@@V3C2V2@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V2@@V5
+C1V1@@V4C1V1@@V4
+C1V1@@V4C1V2@@V4
+C1V1@@V4C3V2@@V3
+C1V1@@V4C3V2@@V3
+C1V1@@V4C1V2@@V3
+C1V1@@V4C4V1@@V4
+C1V1@@V4C1V2@@V3
+C1V1@@V4C2V1@@V4
+C1V1@@V5C1V1@@V5
+C1V1@@V5C1V2@@V5
+C1V1@@V5C1V1@@V4
+C1V1@@V5C1V1@@V5
+C1V1@@V5C3V2@@V3
+C1V1@@V5C4V1@@V4
+C1V1@@V5C4V2@@V5
+C1V1@@V5C4V2@@V3
+C1V1@@V5C4V1@@V4
+C1V1@@V5C4V1@@V5
+C1V1@@V5C1V2@@V3
+C1V1@@V5C2V1@@V4
+C1V1@@V5C2V1@@V5
+C1V1@@V5C2V2@@V5
+C1V1@@V5C1V2@@V3
+C1V1@@V5C2V1@@V4
+C1V1@@V5C4V2@@V4
+C1V2@@V4C1V2@@V3
+C1V2@@V4C4V1@@V4
+C1V2@@V4C4V2@@V4
+C1V2@@V5C1V2@@V3
+C1V2@@V5C1V1@@V4
+C1V2@@V5C2V1@@V4
+C1V2@@V5C4V1@@V5
+C1V2@@V5C1V1@@V5
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V5
+C1V2@@V5C2V1@@V4
+C1V2@@V5C1V1@@V4
+C1V2@@V5C4V2@@V3
+C1V2@@V5C4V1@@V4
+C3V2@@V3C2V1@@V5
+C3V2@@V3C4V1@@V4
+C3V2@@V3C4V1@@V4
+C3V2@@V3C4V1@@V4
+C3V1@@V3C1V1@@V4
+C3V2@@V3C1V1@@V5
+C3V1@@V3C1V1@@V5
+C3V2@@V3C1V1@@V5
+C3V2@@V3C1V2@@V5
+C3V1@@V3C4V2@@V3
+C3V2@@V3C4V1@@V4
+C3V2@@V3C4V1@@V5
+C3V1@@V4C1V1@@V5
+C3V1@@V4C4V2@@V3
+C3V1@@V4C4V2@@V3
+C3V1@@V5C1V1@@V4
+C3V1@@V5C4V1@@V4
+C3V1@@V5C4V1@@V5
+C3V1@@V5C4V1@@V4
+C3V1@@V5C1V2@@V3
+C3V1@@V5C1V1@@V5
+C3V1@@V5C2V1@@V5
+C3V2@@V4C2V1@@V5
+C3V2@@V4C2V2@@V5
+C3V2@@V5C1V1@@V4
+C3V2@@V5C1V1@@V5
+C3V2@@V5C1V1@@V5
+C3V2@@V5C4V1@@V4
+C3V2@@V5C4V1@@V5
+C3V2@@V5C2V1@@V4
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V1@@V4
+C1V1@@V3C1V1@@V4
+C1V1@@V3C2V1@@V4
+C1V1@@V3C2V2@@V3
+C1V1@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C1V1@@V5
+C1V2@@V3C1V1@@V5
+C1V2@@V3C1V1@@V5
+C1V2@@V3C1V2@@V3
+C1V1@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V2@@V3
+C1V1@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C1V1@@V5
+C1V2@@V3C4V2@@V3
+C1V1@@V3C4V2@@V3
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V5
+C1V1@@V3C2V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V2@@V3C4V1@@V5
+C1V1@@V4C1V1@@V5
+C1V1@@V4C4V2@@V3
+C1V1@@V4C1V2@@V4
+C1V1@@V4C4V2@@V4
+C1V1@@V4C4V2@@V4
+C1V1@@V4C2V2@@V4
+C1V1@@V5C1V2@@V3
+C1V1@@V5C1V1@@V4
+C1V1@@V5C4V1@@V4
+C1V1@@V5C4V1@@V5
+C1V1@@V5C4V2@@V4
+C1V1@@V5C4V1@@V5
+C1V1@@V5C2V1@@V5
+C1V1@@V5C4V1@@V4
+C1V1@@V5C2V1@@V5
+C1V2@@V4C1V2@@V3
+C1V2@@V4C1V2@@V3
+C1V2@@V4C4V2@@V5
+C1V2@@V5C1V1@@V4
+C1V2@@V5C1V1@@V4
+C1V2@@V5C1V1@@V5
+C1V2@@V5C1V1@@V5
+C1V2@@V5C4V2@@V3
+C1V2@@V5C1V1@@V5
+C1V2@@V5C4V1@@V5
+C1V2@@V5C2V2@@V3
+C1V1@@V4C1V2@@V3
+C1V1@@V4C1V2@@V3
+C1V1@@V4C2V1@@V4
+C1V1@@V4C1V2@@V4
+C1V1@@V4C1V2@@V4
+C1V1@@V4C4V2@@V3
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V1@@V5
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V1@@V4
+C2V1@@V3C1V2@@V3
+C2V1@@V3C4V2@@V3
+C2V2@@V3C4V1@@V5
+C2V2@@V3C1V1@@V4
+C2V1@@V3C4V2@@V3
+C2V1@@V3C1V2@@V3
+C2V1@@V3C1V1@@V4
+C2V2@@V3C1V1@@V5
+C2V1@@V3C2V2@@V3
+C2V1@@V5C2V2@@V3
+C2V1@@V5C1V2@@V4
+C2V1@@V5C1V2@@V4
+C2V1@@V5C4V1@@V4
+C2V1@@V5C4V1@@V5
+C2V1@@V5C4V2@@V3
+C2V1@@V5C4V1@@V4
+C2V2@@V4C1V2@@V4
+C2V2@@V4C4V1@@V5
+C2V2@@V4C4V2@@V5
+C2V2@@V4C4V2@@V5
+C2V2@@V4C1V2@@V4
+C2V2@@V4C1V2@@V4
+C2V2@@V5C1V2@@V3
+C2V2@@V5C4V2@@V5
+C1V1@@V3C3V1@@V5
+C1V2@@V3C2V1@@V5
+C1V1@@V3C2V1@@V5
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V2@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V4
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V1@@V5
+C1V1@@V4C1V2@@V3
+C1V1@@V4C4V1@@V4
+C1V1@@V4C4V1@@V5
+C1V1@@V4C4V2@@V3
+C1V1@@V4C4V2@@V3
+C1V1@@V4C4V1@@V4
+C1V1@@V4C1V2@@V4
+C1V1@@V5C3V1@@V5
+C1V1@@V5C4V1@@V4
+C1V1@@V5C4V2@@V3
+C1V1@@V5C4V1@@V4
+C1V1@@V5C2V2@@V3
+C1V1@@V5C2V1@@V4
+C1V1@@V5C2V2@@V5
+C1V1@@V5C1V1@@V5
+C1V1@@V5C2V1@@V4
+C1V2@@V4C2V1@@V5
+C1V2@@V4C4V1@@V4
+C1V2@@V4C4V1@@V5
+C1V2@@V4C2V2@@V3
+C1V2@@V4C1V1@@V4
+C1V2@@V4C2V2@@V3
+C1V2@@V4C2V2@@V3
+C1V2@@V4C2V1@@V4
+C1V2@@V5C1V1@@V5
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V5
+C1V2@@V5C4V1@@V5
+C1V2@@V5C2V1@@V4
+C1V2@@V5C2V1@@V5
+C1V2@@V5C4V2@@V3
+C1V2@@V5C4V2@@V3
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V5
+C2V2@@V3C1V1@@V5
+C2V2@@V3C2V1@@V5
+C2V2@@V3C1V1@@V5
+C2V2@@V3C3V1@@V5
+C2V2@@V3C3V1@@V5
+C2V2@@V3C1V1@@V5
+C2V2@@V3C1V1@@V5
+C2V2@@V3C4V2@@V3
+C2V2@@V3C4V1@@V4
+C2V2@@V3C4V1@@V5
+C2V2@@V3C4V1@@V5
+C2V2@@V3C4V2@@V5
+C2V1@@V3C4V1@@V4
+C2V1@@V3C4V1@@V4
+C2V2@@V3C4V1@@V5
+C2V1@@V3C4V2@@V5
+C2V1@@V3C4V2@@V3
+C2V2@@V3C4V2@@V3
+C2V2@@V3C4V1@@V5
+C2V2@@V3C1V2@@V5
+C2V1@@V3C4V2@@V3
+C2V1@@V3C4V1@@V5
+C2V2@@V3C4V1@@V5
+C2V2@@V3C2V2@@V3
+C2V1@@V3C2V2@@V3
+C2V1@@V3C2V2@@V3
+C2V2@@V3C2V1@@V5
+C2V1@@V3C2V2@@V5
+C2V1@@V3C4V2@@V3
+C2V2@@V3C4V1@@V4
+C2V1@@V4C1V1@@V4
+C2V1@@V4C3V2@@V3
+C2V1@@V4C4V2@@V3
+C2V1@@V4C4V2@@V3
+C2V1@@V5C4V1@@V4
+C2V1@@V5C4V1@@V4
+C2V1@@V5C1V1@@V5
+C2V1@@V5C4V1@@V4
+C2V1@@V5C4V1@@V4
+C2V1@@V5C1V1@@V4
+C2V1@@V5C2V2@@V3
+C2V1@@V5C2V1@@V5
+C2V2@@V4C1V2@@V3
+C2V2@@V4C1V2@@V4
+C2V2@@V4C4V1@@V5
+C2V2@@V4C4V2@@V5
+C2V2@@V4C4V2@@V3
+C2V2@@V4C4V1@@V4
+C2V2@@V5C1V1@@V4
+C2V2@@V5C4V1@@V4
+C2V2@@V5C4V2@@V3
+C2V2@@V5C4V2@@V3
+C2V2@@V5C4V2@@V3
+C2V2@@V5C4V1@@V5
+C2V2@@V5C2V1@@V5
+C1V1@@V5C1V1@@V4
+C1V1@@V5C2V2@@V3
+C1V1@@V5C2V2@@V3
+C1V1@@V5C4V1@@V5
+C1V1@@V5C4V2@@V3
+C1V1@@V5C4V2@@V3
+C1V1@@V5C4V1@@V4
+C1V1@@V5C2V2@@V3
+C1V1@@V5C2V2@@V3
+C1V1@@V5C2V2@@V3
+C1V1@@V5C2V1@@V4
+C1V1@@V5C2V1@@V4
+C1V1@@V5C2V2@@V4
+C3V2@@V3C1V2@@V5
+C3V1@@V3C2V2@@V3
+C3V2@@V3C2V1@@V5
+C3V2@@V3C3V2@@V5
+C3V1@@V3C1V1@@V5
+C3V1@@V3C4V2@@V3
+C3V1@@V3C4V2@@V3
+C3V1@@V3C4V1@@V5
+C3V2@@V3C4V1@@V4
+C3V2@@V3C4V1@@V5
+C3V2@@V3C4V1@@V5
+C3V2@@V3C1V2@@V3
+C3V2@@V3C4V1@@V5
+C3V1@@V3C4V1@@V5
+C3V2@@V3C4V2@@V5
+C3V2@@V3C2V1@@V5
+C3V2@@V3C2V2@@V5
+C3V2@@V3C2V1@@V4
+C3V2@@V3C4V1@@V5
+C3V1@@V3C2V2@@V3
+C3V1@@V5C1V1@@V5
+C3V1@@V5C2V1@@V4
+C3V1@@V5C4V1@@V5
+C3V1@@V5C4V1@@V4
+C3V1@@V5C4V2@@V5
+C3V1@@V5C2V1@@V4
+C3V2@@V4C1V2@@V3
+C3V2@@V4C1V2@@V4
+C3V2@@V5C3V1@@V4
+C3V2@@V5C3V2@@V5
+C3V2@@V5C1V1@@V5
+C3V2@@V5C1V1@@V4
+C3V2@@V5C4V1@@V5
+C3V2@@V5C2V1@@V5
+C3V2@@V5C2V1@@V4
+C3V2@@V5C4V2@@V3
+C1V1@@V3C3V1@@V4
+C1V2@@V3C3V1@@V5
+C1V2@@V3C1V2@@V4
+C1V1@@V3C1V2@@V5
+C1V2@@V3C2V1@@V4
+C1V1@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V1@@V3C2V1@@V5
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V2@@V5
+C1V2@@V3C3V1@@V5
+C1V1@@V3C3V1@@V5
+C1V2@@V3C1V2@@V3
+C1V2@@V3C1V1@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C4V2@@V4
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V1@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V2@@V3C4V2@@V3
+C1V2@@V3C4V1@@V4
+C1V1@@V3C4V1@@V4
+C1V2@@V3C4V1@@V5
+C1V1@@V3C4V1@@V5
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V4
+C1V2@@V3C2V1@@V5
+C1V2@@V3C2V1@@V5
+C1V1@@V3C2V1@@V5
+C1V2@@V3C1V2@@V3
+C1V1@@V3C1V1@@V4
+C1V1@@V3C1V1@@V5
+C1V1@@V3C1V2@@V5
+C1V2@@V3C2V1@@V4
+C1V1@@V3C2V2@@V3
+C1V1@@V3C2V1@@V5
+C1V1@@V4C4V1@@V4
+C1V1@@V4C1V1@@V5
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V2@@V3
+C1V1@@V4C2V1@@V5
+C1V1@@V4C2V2@@V3
+C1V1@@V5C2V1@@V5
+C1V1@@V5C4V2@@V5
+C1V1@@V5C4V1@@V4
+C1V1@@V5C2V1@@V4
+C1V1@@V5C2V1@@V5
+C1V1@@V5C4V2@@V3
+C1V1@@V5C4V2@@V5
+C1V1@@V5C4V2@@V5
+C1V1@@V5C4V2@@V5
+C1V2@@V4C1V1@@V5
+C1V2@@V4C3V2@@V3
+C1V2@@V4C4V2@@V3
+C1V2@@V4C4V2@@V3
+C1V2@@V4C4V2@@V3
+C1V2@@V4C1V1@@V5
+C1V2@@V4C4V1@@V4
+C1V2@@V5C1V2@@V3
+C1V2@@V5C1V1@@V4
+C1V2@@V5C3V1@@V4
+C1V2@@V5C3V1@@V5
+C1V2@@V5C2V1@@V4
+C1V2@@V5C2V1@@V5
+C1V2@@V5C2V1@@V4
+C1V2@@V5C2V1@@V5
+C1V2@@V5C1V2@@V3
+C1V2@@V5C1V1@@V5
+C1V2@@V5C1V2@@V5
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V5
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V4
+C1V2@@V5C1V1@@V4
+C1V2@@V5C4V1@@V4
+C1V2@@V5C4V1@@V5
+C1V2@@V5C2V2@@V3
+C1V2@@V5C2V1@@V4
+C1V2@@V5C2V1@@V5
+C1V2@@V5C4V1@@V5
+C1V2@@V5C2V1@@V4
+C1V2@@V5C2V1@@V5
+C4V2@@V3C1V1@@V4
+C4V1@@V3C1V1@@V4
+C4V2@@V3C1V1@@V5
+C4V1@@V3C1V2@@V5
+C4V2@@V3C2V1@@V4
+C4V2@@V3C1V1@@V5
+C4V2@@V3C1V1@@V5
+C4V1@@V3C1V1@@V5
+C4V2@@V3C4V2@@V3
+C4V2@@V3C4V1@@V4
+C4V1@@V3C4V1@@V4
+C4V2@@V3C4V1@@V5
+C4V2@@V3C4V2@@V3
+C4V2@@V3C4V1@@V5
+C4V2@@V3C4V1@@V4
+C4V2@@V3C1V1@@V4
+C4V1@@V3C1V2@@V3
+C4V2@@V3C4V1@@V5
+C4V2@@V3C2V1@@V4
+C4V1@@V3C2V1@@V4
+C4V2@@V3C2V1@@V5
+C4V1@@V3C1V1@@V4
+C4V2@@V3C1V1@@V5
+C4V1@@V3C2V2@@V3
+C4V2@@V3C2V1@@V4
+C4V2@@V3C4V1@@V4
+C4V2@@V3C4V1@@V5
+C4V1@@V4C1V2@@V4
+C4V1@@V4C2V2@@V3
+C4V1@@V4C1V2@@V3
+C4V1@@V4C1V2@@V3
+C4V1@@V4C2V2@@V3
+C4V1@@V5C1V1@@V5
+C4V1@@V5C1V2@@V3
+C4V1@@V5C1V1@@V5
+C4V1@@V5C2V1@@V4
+C4V1@@V5C2V1@@V5
+C4V1@@V5C4V1@@V5
+C4V1@@V5C4V2@@V5
+C4V1@@V5C4V2@@V3
+C4V1@@V5C1V1@@V4
+C4V1@@V5C4V1@@V4
+C4V1@@V5C2V1@@V4
+C4V1@@V5C1V1@@V4
+C4V1@@V5C2V2@@V3
+C4V1@@V5C2V1@@V5
+C4V2@@V4C4V2@@V3
+C4V2@@V4C4V1@@V5
+C4V2@@V4C1V2@@V4
+C4V2@@V5C3V1@@V5
+C4V2@@V5C1V1@@V5
+C4V2@@V5C4V1@@V4
+C4V2@@V5C4V2@@V5
+C4V2@@V5C1V1@@V5
+C4V2@@V5C1V1@@V5
+C4V2@@V3C3V1@@V4
+Traceback (most recent call last):
+  File "C:\Users\sara\Desktop\واج\extra\21-2.py", line 226, in <module>
+    print(cat)
+  File "C:\Python34\lib\idlelib\PyShell.py", line 1347, in write
+    return self.shell.write(s, self.tags)
+KeyboardInterrupt
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+leeeeeeeeeeeeeeeeeeen 280
+most common tarkib CV.CV:  [('C1V2@@V3C4V1@@V5', 28)]
+In first syllable : 	 ('C3V1@@V5', 13)
+In first syllable : 	 ('C4V2@@V3', 87)
+In first syllable : 	 ('C2V2@@V5', 38)
+In first syllable : 	 ('C1V1@@V5', 81)
+In first syllable : 	 ('C3V1@@V3', 10)
+In first syllable : 	 ('C3V2@@V3', 22)
+In first syllable : 	 ('C2V2@@V4', 35)
+In first syllable : 	 ('C1V2@@V3', 166)
+In first syllable : 	 ('C4V1@@V3', 43)
+In first syllable : 	 ('C3V2@@V4', 4)
+In first syllable : 	 ('C4V1@@V4', 26)
+In first syllable : 	 ('C2V1@@V5', 69)
+In first syllable : 	 ('C1V1@@V3', 95)
+In first syllable : 	 ('C3V1@@V4', 3)
+In first syllable : 	 ('C3V2@@V5', 14)
+In first syllable : 	 ('C2V1@@V4', 26)
+In first syllable : 	 ('C1V2@@V4', 37)
+In first syllable : 	 ('C1V1@@V4', 49)
+In first syllable : 	 ('C4V1@@V5', 45)
+In first syllable : 	 ('C2V1@@V3', 64)
+In first syllable : 	 ('C4V2@@V5', 27)
+In first syllable : 	 ('C4V2@@V4', 19)
+In first syllable : 	 ('C2V2@@V3', 109)
+In first syllable : 	 ('C1V2@@V5', 96)
+most common tarkib in first sylable:  [('C1V2@@V3', 166)]
+
+In second syllable : 	 ('C3V2@@V5', 3)
+In second syllable : 	 ('C4V1@@V5', 169)
+In second syllable : 	 ('C4V2@@V3', 131)
+In second syllable : 	 ('C2V1@@V4', 94)
+In second syllable : 	 ('C2V2@@V3', 86)
+In second syllable : 	 ('C1V1@@V5', 115)
+In second syllable : 	 ('C1V2@@V4', 26)
+In second syllable : 	 ('C4V2@@V4', 18)
+In second syllable : 	 ('C3V1@@V5', 18)
+In second syllable : 	 ('C3V2@@V3', 11)
+In second syllable : 	 ('C1V2@@V3', 76)
+In second syllable : 	 ('C1V1@@V4', 65)
+In second syllable : 	 ('C4V2@@V5', 40)
+In second syllable : 	 ('C2V2@@V4', 7)
+In second syllable : 	 ('C4V1@@V4', 135)
+In second syllable : 	 ('C2V1@@V5', 120)
+In second syllable : 	 ('C2V2@@V5', 26)
+In second syllable : 	 ('C4V1@@V3', 1)
+In second syllable : 	 ('C1V2@@V5', 26)
+In second syllable : 	 ('C3V1@@V4', 11)
+most common tarkib in second sylable:  [('C4V1@@V5', 169)]
+most common Cs in CV.CV:  [('C1C4', 215)]
+most common Vs in CV.CV:  [('V2@@V3V1@@V5', 177)]
+
+list of gaps in first sylable of CV.CV:  0
+[]
+list of gaps in second sylable of CV.CV:  4
+list of gaps in consonants CV.CV:  0
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+most common tarkib CV.CV:  [('C1V2@@V3C4V1@@V5', 28)]
+In first syllable : 	 ('C4V2', 133)
+In first syllable : 	 ('C3V3', 32)
+In first syllable : 	 ('C1V2', 299)
+In first syllable : 	 ('C3V2', 40)
+In first syllable : 	 ('C4V5', 72)
+In first syllable : 	 ('C2V2', 182)
+In first syllable : 	 ('C4V1', 114)
+In first syllable : 	 ('C1V3', 261)
+In first syllable : 	 ('C1V5', 177)
+In first syllable : 	 ('C2V5', 107)
+In first syllable : 	 ('C4V4', 45)
+In first syllable : 	 ('C1V4', 86)
+In first syllable : 	 ('C2V4', 61)
+In first syllable : 	 ('C3V1', 26)
+In first syllable : 	 ('C3V4', 7)
+In first syllable : 	 ('C1V1', 225)
+In first syllable : 	 ('C2V1', 159)
+In first syllable : 	 ('C3V5', 27)
+In first syllable : 	 ('C2V3', 173)
+In first syllable : 	 ('C4V3', 130)
+most common tarkib in first sylable:  [('C1V2', 299)]
+
+In second syllable : 	 ('C4V2', 189)
+In second syllable : 	 ('C2V2', 119)
+In second syllable : 	 ('C1V2', 128)
+In second syllable : 	 ('C4V1', 305)
+In second syllable : 	 ('C3V5', 21)
+In second syllable : 	 ('C3V2', 14)
+In second syllable : 	 ('C1V3', 76)
+In second syllable : 	 ('C1V5', 141)
+In second syllable : 	 ('C2V5', 146)
+In second syllable : 	 ('C4V4', 153)
+In second syllable : 	 ('C1V4', 91)
+In second syllable : 	 ('C2V4', 101)
+In second syllable : 	 ('C3V3', 11)
+In second syllable : 	 ('C2V1', 214)
+In second syllable : 	 ('C3V1', 29)
+In second syllable : 	 ('C3V4', 11)
+In second syllable : 	 ('C1V1', 180)
+In second syllable : 	 ('C4V3', 132)
+In second syllable : 	 ('C4V5', 209)
+In second syllable : 	 ('C2V3', 86)
+most common tarkib in second sylable:  [('C4V1', 305)]
+most common Cs in CV.CV:  [('C1C4', 215)]
+most common Vs in CV.CV:  [('V2@@V3V1@@V5', 177)]
+
+list of gaps in first sylable of CV.CV:  24
+['C1V1@@V3', 'C1V1@@V4', 'C1V1@@V5', 'C1V2@@V3', 'C1V2@@V4', 'C1V2@@V5', 'C2V1@@V3', 'C2V1@@V4', 'C2V1@@V5', 'C2V2@@V3', 'C2V2@@V4', 'C2V2@@V5', 'C3V1@@V3', 'C3V1@@V4', 'C3V1@@V5', 'C3V2@@V3', 'C3V2@@V4', 'C3V2@@V5', 'C4V1@@V3', 'C4V1@@V4', 'C4V1@@V5', 'C4V2@@V3', 'C4V2@@V4', 'C4V2@@V5']
+list of gaps in second sylable of CV.CV:  24
+list of gaps in consonants CV.CV:  0
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> print(h22)
+C2V4
+>>> print(h11)
+C2V1
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+most common tarkib CV.CV:  [('C1V2@@V3C4V1@@V5', 28)]
+In first syllable : 	 ('C3V2@@V3', 22)
+In first syllable : 	 ('C1V2@@V5', 96)
+In first syllable : 	 ('C4V1@@V3', 43)
+In first syllable : 	 ('C2V2@@V3', 109)
+In first syllable : 	 ('C2V1@@V5', 69)
+In first syllable : 	 ('C3V2@@V5', 14)
+In first syllable : 	 ('C3V1@@V3', 10)
+In first syllable : 	 ('C3V1@@V4', 3)
+In first syllable : 	 ('C2V1@@V4', 26)
+In first syllable : 	 ('C4V1@@V4', 26)
+In first syllable : 	 ('C1V1@@V4', 49)
+In first syllable : 	 ('C4V1@@V5', 45)
+In first syllable : 	 ('C2V2@@V5', 38)
+In first syllable : 	 ('C2V2@@V4', 35)
+In first syllable : 	 ('C1V2@@V3', 166)
+In first syllable : 	 ('C1V1@@V3', 95)
+In first syllable : 	 ('C3V2@@V4', 4)
+In first syllable : 	 ('C4V2@@V3', 87)
+In first syllable : 	 ('C4V2@@V5', 27)
+In first syllable : 	 ('C4V2@@V4', 19)
+In first syllable : 	 ('C2V1@@V3', 64)
+In first syllable : 	 ('C1V2@@V4', 37)
+In first syllable : 	 ('C3V1@@V5', 13)
+In first syllable : 	 ('C1V1@@V5', 81)
+most common tarkib in first sylable:  [('C1V2@@V3', 166)]
+
+In second syllable : 	 ('C3V2@@V3', 11)
+In second syllable : 	 ('C4V2@@V3', 131)
+In second syllable : 	 ('C1V2@@V5', 26)
+In second syllable : 	 ('C2V2@@V5', 26)
+In second syllable : 	 ('C2V2@@V4', 7)
+In second syllable : 	 ('C3V1@@V4', 11)
+In second syllable : 	 ('C1V2@@V3', 76)
+In second syllable : 	 ('C2V2@@V3', 86)
+In second syllable : 	 ('C2V1@@V5', 120)
+In second syllable : 	 ('C3V1@@V5', 18)
+In second syllable : 	 ('C4V2@@V4', 18)
+In second syllable : 	 ('C4V2@@V5', 40)
+In second syllable : 	 ('C2V1@@V4', 94)
+In second syllable : 	 ('C4V1@@V3', 1)
+In second syllable : 	 ('C4V1@@V4', 135)
+In second syllable : 	 ('C1V1@@V4', 65)
+In second syllable : 	 ('C4V1@@V5', 169)
+In second syllable : 	 ('C1V2@@V4', 26)
+In second syllable : 	 ('C3V2@@V5', 3)
+In second syllable : 	 ('C1V1@@V5', 115)
+most common tarkib in second sylable:  [('C4V1@@V5', 169)]
+most common Cs in CV.CV:  [('C1C4', 215)]
+most common Vs in CV.CV:  [('V2@@V3V1@@V5', 177)]
+
+list of gaps in first sylable of CV.CV:  0
+[]
+list of gaps in second sylable of CV.CV:  4
+list of gaps in consonants CV.CV:  0
+list of gaps in vowels CV.CV:  25
+V1,V1
+V1,V2
+V1,V3
+V1,V4
+V1,V5
+V2,V1
+V2,V2
+V2,V3
+V2,V4
+V2,V5
+V3,V1
+V3,V2
+V3,V3
+V3,V4
+V3,V5
+V4,V1
+V4,V2
+V4,V3
+V4,V4
+V4,V5
+V5,V1
+V5,V2
+V5,V3
+V5,V4
+V5,V5
+
+>>> ================================ RESTART ================================
+>>> 
+size of CV.CV form in lexicon =  1178
+most common tarkib CV.CV:  [('C1V2@@V3C4V1@@V5', 28)]
+In first syllable : 	 ('C3V2@@V4', 4)
+In first syllable : 	 ('C4V2@@V5', 27)
+In first syllable : 	 ('C3V2@@V3', 22)
+In first syllable : 	 ('C3V2@@V5', 14)
+In first syllable : 	 ('C1V2@@V4', 37)
+In first syllable : 	 ('C1V2@@V3', 166)
+In first syllable : 	 ('C2V1@@V3', 64)
+In first syllable : 	 ('C1V2@@V5', 96)
+In first syllable : 	 ('C4V1@@V4', 26)
+In first syllable : 	 ('C1V1@@V3', 95)
+In first syllable : 	 ('C3V1@@V3', 10)
+In first syllable : 	 ('C1V1@@V4', 49)
+In first syllable : 	 ('C3V1@@V4', 3)
+In first syllable : 	 ('C3V1@@V5', 13)
+In first syllable : 	 ('C4V2@@V3', 87)
+In first syllable : 	 ('C4V1@@V3', 43)
+In first syllable : 	 ('C2V2@@V3', 109)
+In first syllable : 	 ('C2V2@@V4', 35)
+In first syllable : 	 ('C4V1@@V5', 45)
+In first syllable : 	 ('C4V2@@V4', 19)
+In first syllable : 	 ('C2V1@@V5', 69)
+In first syllable : 	 ('C1V1@@V5', 81)
+In first syllable : 	 ('C2V2@@V5', 38)
+In first syllable : 	 ('C2V1@@V4', 26)
+most common tarkib in first sylable:  [('C1V2@@V3', 166)]
+
+In second syllable : 	 ('C4V2@@V5', 40)
+In second syllable : 	 ('C2V1@@V5', 120)
+In second syllable : 	 ('C3V1@@V4', 11)
+In second syllable : 	 ('C3V2@@V5', 3)
+In second syllable : 	 ('C1V2@@V4', 26)
+In second syllable : 	 ('C3V1@@V5', 18)
+In second syllable : 	 ('C4V2@@V3', 131)
+In second syllable : 	 ('C1V2@@V3', 76)
+In second syllable : 	 ('C2V2@@V3', 86)
+In second syllable : 	 ('C2V2@@V4', 7)
+In second syllable : 	 ('C4V1@@V5', 169)
+In second syllable : 	 ('C4V2@@V4', 18)
+In second syllable : 	 ('C2V2@@V5', 26)
+In second syllable : 	 ('C4V1@@V4', 135)
+In second syllable : 	 ('C4V1@@V3', 1)
+In second syllable : 	 ('C2V1@@V4', 94)
+In second syllable : 	 ('C3V2@@V3', 11)
+In second syllable : 	 ('C1V1@@V5', 115)
+In second syllable : 	 ('C1V1@@V4', 65)
+In second syllable : 	 ('C1V2@@V5', 26)
+most common tarkib in second sylable:  [('C4V1@@V5', 169)]
+most common Cs in CV.CV:  [('C1C4', 215)]
+most common Vs in CV.CV:  [('V2@@V3V1@@V5', 177)]
+
+list of gaps in first sylable of CV.CV:  0
+[]
+list of gaps in second sylable of CV.CV:  4
+C1V1@@V3
+C2V1@@V3
+C3V1@@V3
+C3V2@@V4
+list of gaps in consonants CV.CV:  0
+list of gaps in vowels CV.CV:  5
+V1@@V4,V1@@V3
+V1@@V5,V1@@V3
+V2@@V3,V1@@V3
+V2@@V4,V1@@V3
+V2@@V5,V1@@V3
+
+>>> 
